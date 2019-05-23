@@ -1,0 +1,57 @@
+#principal {
+ 	color:red; 
+ 	}
+ 
+/* comentario no css*/
+ #Titulo { color:#ffff00 }
+
+ .testo_rosa{ color: green}
+
+
+
+ #cm{
+ 	background-color: blue;
+ 	width:3cm;
+ 	height:3cm;
+ }
+ #mm{
+ 	background-color: red;
+ 	width: 5mm;
+ 	height:10mm;
+ }
+ #in{
+ 	background-color: pink;
+ 	width: 2in;
+ 	height: 3in;
+ }
+ #px{
+ 	background: purple;
+ 	height: 10px;
+ 	width:10px;
+ }
+ #pt{
+ 	background-color: brown;
+ 	width: 10pt;
+ 	height: 10pt;
+ }
+ #pc{
+ 	background-color: green;
+ 	width: 1pc;
+ 	height: 1pc;
+ }
+
+ #base{
+ 	height: 20px;
+ 	background-color:black;
+ 	
+ }
+ #container{
+ 	background-color: purple;
+ 	color: white;
+ 	padding: 10px
+ }
+.borda{
+	border-width: 5px
+	border-style: solid;
+	border-color: black: 
+}
